@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurabh Misra</h1>
-<h3 align="center">I'm a full-stack developer, I have varied interests</h3>
+<h3 align="center">I'm a full-stack developer. Outside tech I have varied interests - pure and applied Maths and Physics. I'm also an avid reader, a meditation facilitator and I play the guitar and the piano .</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sm171190&label=Profile%20views&color=0e75b6&style=flat" alt="sm171190" /> </p>
 
