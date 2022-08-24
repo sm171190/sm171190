@@ -27,8 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sm171190&show_icons=true&locale=en&layout=compact" alt="sm171190" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sm171190&show_icons=true&locale=en" alt="sm171190" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sm171190&" alt="sm171190" /></p>
-<p><img align="center" src="https://leetcode-stat-api.herokuapp.com/adityag28/theme=dark" alt="sm171190" /></p>
+<p><img align="center" src="https://leetcode-stat-api.herokuapp.com/sm171190/theme=dark" alt="sm171190" /></p>
  
  
